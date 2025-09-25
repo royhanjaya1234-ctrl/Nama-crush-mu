@@ -1,0 +1,6 @@
+nama = input("masukkan nama anda ")
+crush = input("masukkan nama crush anda ")
+if crush != "roy":
+    print(" yah sayang banget padahal aku udah berharap di crushin sama kamu")
+else:
+    print( "aku udah menduga pasti kamu suka aama dia")
